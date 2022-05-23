@@ -1,1 +1,3 @@
 # TechTrainMission
+
+TechTrain めざせ！GitHubMasterのリポジトリです
